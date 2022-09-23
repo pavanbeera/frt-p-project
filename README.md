@@ -14,4 +14,4 @@ Project Description : An ecommerce project plan helps you get realistic about yo
 
 Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
 
-Other Azure Technologies : App Service S
+Other Azure Technologies : App Services.
